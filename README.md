@@ -24,7 +24,7 @@ To Create a Web App and host it on Heroku Platform:
 1. Create a Model
 2. Pickle the Model
 3. Create a [Flask App](https://flask.palletsprojects.com/en/2.0.x/)
-4. Use [Streamlit](https://github.com/flasgger/flasgger) for frontend
+4. Use [Streamlit](https://streamlit.io/) for frontend
 5. Use Docker for Containerization
 6. Create a Heroku Account.
 7. Create the Procfile and Setup.sh files
