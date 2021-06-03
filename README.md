@@ -4,10 +4,18 @@
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 ![Frontend](https://aws1.discourse-cdn.com/business7/uploads/streamlit/original/2X/8/8cb5b6c0e1fe4e4ebfd30b769204c0d30c332fec.png)
 
-In this repo, I have created a Bank Note Authentication Model. After creating the model, I have also deployed it onto Hroku platform using Flask and Flasgger.
+In this repo, I have created a Bank Note Authentication Model. After creating the model, I have also deployed it onto Hroku platform using Flask and Streamlit.
 
 
 ## The Link for Deployed [Bank Note Authenticator](https://bank-note-auth-streamlit.herokuapp.com/) app
+
+## Tools Used:
+1. Jupyter Notebook
+2. GitHub
+3. Docker
+4. Flask
+5. Streamlit
+6. Heroku
 
 ### Steps
 
